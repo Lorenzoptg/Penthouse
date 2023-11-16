@@ -2587,6 +2587,15 @@ textarea.form-control-lg {
   color: #198754;
 }
 
+#star-svg {
+  position: fixed;
+    top: 20%;
+    left: 60%;
+    width: 455px;
+    height: 491px;
+    margin: -104px 0 0 -75px;
+}
+
 .valid-tooltip {
   position: absolute;
   top: 100%;
