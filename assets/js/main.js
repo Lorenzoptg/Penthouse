@@ -1,11 +1,4 @@
 /**
-* Template Name: DevFolio
-* Updated: Sep 18 2023 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-
-
 var path = document.querySelector('#star-path');
 var pathLength = path.getTotalLength();
 path.style.strokeDasharray = pathLength + ' ' + pathLength;
@@ -29,6 +22,8 @@ if (passaggiCompletati >= passaggi) {
 }
 var intervalloCostruzione = setInterval(eseguiPasso, intervallo);
 */
+
+
 (function() {
   "use strict";
 
