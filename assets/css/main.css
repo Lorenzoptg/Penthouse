@@ -1766,7 +1766,7 @@ body {
 .outer-nav {
     position: absolute;
     top: 50%;
-    left: 55%;
+    left: 46%;
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
     -webkit-transform-style: preserve-3d;
